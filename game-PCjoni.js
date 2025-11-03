@@ -808,7 +808,7 @@ window.addEventListener('mousedown', (event) => {
 
 function returnToMenuButton (){
     console.log('Return to menu button clicked');
-    window.location.href = 'menu.html'; // Replace with the correct path to your menu page
+    window.location.href = 'index.html'; // Replace with the correct path to your menu page
 }
 
 function showEndGameScreen() {
